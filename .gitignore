@@ -1,0 +1,20 @@
+run_*/*
+run_*
+*.DS*
+.asetup*
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*~
+*.swo
+*.swp
+*.swp~
+*.swo~
+*afs*
+
+mg5_tutorial/*
+mg5_tutorial
