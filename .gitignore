@@ -22,3 +22,4 @@ MG5_*
 MG5_*/*
 *.root
 *.gz
+.ipynb_checkpoints
