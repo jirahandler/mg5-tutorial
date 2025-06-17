@@ -16,8 +16,8 @@ __pycache__/
 *.swo~
 *afs*
 
+madgraph_tutorial/*
 mg5_tutorial/*
-mg5_tutorial
 MG5_*
 MG5_*/*
 *.root
