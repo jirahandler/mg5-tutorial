@@ -18,3 +18,7 @@ __pycache__/
 
 mg5_tutorial/*
 mg5_tutorial
+MG5_*
+MG5_*/*
+*.root
+*.gz
