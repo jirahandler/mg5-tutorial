@@ -3,5 +3,5 @@ git add .
 date=$(date '+%Y-%m-%d %H:%M:%S')
 git commit -m "Commit at $(date) "
 git branch -M main
-git remote add origin https://github.com/jirahandler/mg5-tutorial.git
+#git remote add origin https://github.com/jirahandler/mg5-tutorial.git
 git push -u origin main
